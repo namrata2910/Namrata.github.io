@@ -1,1 +1,1 @@
-# https://github.com/namrata.github.io
+namrata.github.io
